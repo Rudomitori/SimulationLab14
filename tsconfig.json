@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noEmitOnError": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5",
+    "types": ["node"],
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
